@@ -28,3 +28,9 @@
 ## Sequence Duplication Levels
 
 ![image](https://user-images.githubusercontent.com/56909634/155006601-d90eb1c8-0135-424a-b7ce-bfb0e34758f1.png)
+
+Colab: https://colab.research.google.com/drive/1ht67CShpbEU6ID8DyCA7G7na89pvAuEd#scrollTo=fcS724jEncto
+
+Информация о чтениях
+
+![image](C:\Users\ilian\OneDrive - НИУ Высшая школа экономики\Рисунки\Снимки экрана)
