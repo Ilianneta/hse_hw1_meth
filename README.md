@@ -33,4 +33,4 @@ Colab: https://colab.research.google.com/drive/1ht67CShpbEU6ID8DyCA7G7na89pvAuEd
 
 Информация о чтениях
 
-![image](C:\Users\ilian\OneDrive - НИУ Высшая школа экономики\Рисунки\Снимки экрана)
+![Снимок экрана (94)](https://user-images.githubusercontent.com/56909634/155020847-8a936274-42e1-4663-9bf8-168097b06fe1.png)
